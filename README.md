@@ -1,5 +1,4 @@
 # Hi, I'm Aiden! 
-### Welcome to my GitHub!
 
 Self-starter computer science student.
 Aspiring professor of computer science.
@@ -7,13 +6,11 @@ Programming language and natural language enthusiast.
 
 **My favorite thing to do is learn something new!**
 
-### Favorite Programming Languages
+### Programming Languages
 - C++ (my self-taught first language!)
 - HTML/CSS/JavaScript
 - Java
     - Processing
-
-### Other Programming Languages
 - Python
 - VBA
 - Bash
@@ -23,13 +20,10 @@ Programming language and natural language enthusiast.
 - Kotlin
 
 ### More About Me
-**Musician**
+**Music**
 - Instruments - piano, voice (bass 2), bass guitar, drums
 - Production - Cakewalk Sonar, Vital, PhasePlant
-
-**Music I Like**
-- Dubstep, Kpop, Metal
-- And anything else you can think of
+- Genres I Like - Dubstep, Kpop, Metal
 
 **Language Learning**
 - Chinese (college minor), Korean, Spanish
