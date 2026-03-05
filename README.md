@@ -18,12 +18,3 @@ Programming language and natural language enthusiast.
 ### Currently Learning 
 - SQL
 - Kotlin
-
-### More About Me
-**Music**
-- Instruments - piano, voice (bass 2), bass guitar, drums
-- Production - Cakewalk Sonar, Vital, PhasePlant
-- Genres I Like - Dubstep, Kpop, Metal
-
-**Language Learning**
-- Chinese (college minor), Korean, Spanish
